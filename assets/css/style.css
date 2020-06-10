@@ -85,34 +85,26 @@ a {
     background-color: #2589bd;
 }
 /* unify all same atributes */
-.benefit-lead,
-.benefit-cost,
-.benefit-brand {
+.benefitatt {
     margin-bottom: 32px;
     color: #ffffff;
 }
 /* unify all same atributes */
-.benefit-lead h3,
-.benefit-cost h3,
-.benefit-brand h3 {
+.benefitatt h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 /* unify all same atributes */
 
-.benefit-lead img,
-.benefit-cost img,
-.benefit-brand img {
+.benefitatt img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
 /* unify all same atributes */ 
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing {
+.Contentatt {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -123,9 +115,7 @@ a {
 
 /* unify all same atributes */
 
-.search-engine-optimization img,
-.online-reputation-management img,
-.social-media-marketing img {
+.Contentatt img {
     max-height: 200px;
 }
 
